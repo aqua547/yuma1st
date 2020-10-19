@@ -1,0 +1,66 @@
+body {
+  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+}
+
+li {
+  list-style: none;
+}
+.header{
+  background-color: #26d0c9;
+  height:70px;
+  color:white;
+
+}
+.header-left{
+float:left;
+font-size: 25px;
+padding:16px 30px;
+
+
+}
+.header li{
+  float:left;
+  padding:25px 10px ;
+  font-size:10px;
+}
+.main{
+  padding:50px 50px
+}
+.top h1{
+  font-size:150px;
+
+}
+span{
+  color:red;
+}
+.main h2{
+  font-size:75px;
+}
+.heading {
+  border-bottom:2px solid #dee7ec;
+  margin-bottom: 20px;
+
+}
+
+.lesson{
+  width:25%;
+float:left;
+text-align: center;
+}
+
+.btn{
+  width:100px;
+  height:20px;
+  box-shadow:0 2px #e6e6fa;
+  opacity:0.7:
+
+}
+.btn:hover{
+  opacity:1:
+}
+.btn:active{
+  box-shadow:none;
+  position:relative;
+  top:2px;
+
+}
