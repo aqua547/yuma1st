@@ -64,3 +64,21 @@ text-align: center;
   top:2px;
 
 }
+
+.footer{
+  height:120px;
+  background-color: #008080;
+  padding:40px;
+  color:#fff;
+
+}
+.footer-left{
+  float:left;
+  font-size:36px
+}
+.footer-right{
+  float:right;
+}
+.footer-right li{
+  padding-bottom:10px;
+}
